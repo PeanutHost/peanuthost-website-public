@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on PeanutHost</title>
+    <link>https://peanuthost.net/tags/</link>
+    <description>Recent content in Tags on PeanutHost</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Peanuthost</copyright>
+    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://peanuthost.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First</title>
+      <link>https://peanuthost.net/tags/first/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://peanuthost.net/tags/first/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Site Launch</title>
+      <link>https://peanuthost.net/tags/site-launch/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://peanuthost.net/tags/site-launch/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://peanuthost.net/tags/welcome/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://peanuthost.net/tags/welcome/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
