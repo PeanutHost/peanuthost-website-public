@@ -19,5 +19,55 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://peanuthost.net/news/sitelaunch/featured.png" />
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://peanuthost.net/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://peanuthost.net/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Acceptable Use Policy</title>
+      <link>https://peanuthost.net/aup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://peanuthost.net/aup/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://peanuthost.net/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://peanuthost.net/contact/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Free &amp; Open Source Tools</title>
+      <link>https://peanuthost.net/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://peanuthost.net/credits/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Why This Policy</title>
+      <link>https://peanuthost.net/wtp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://peanuthost.net/wtp/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
