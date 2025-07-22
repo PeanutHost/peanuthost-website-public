@@ -1,3 +1,14 @@
+# Third Party Licenses Summary
+
+## Theme: Blowfish (included as a third-party component)
+License: MIT<br>
+Source: https://github.com/nunocoracao/blowfish<br>
+License File: [LICENSE](https://github.com/nunocoracao/blowfish/blob/main/LICENSE) or [included below](#blowfish-license-mit)
+
+---
+
+### Blowfish License (MIT)
+
 The MIT License (MIT)
 
 Copyright (c) 2022 Nuno Coração (https://nunocoracao.com)
