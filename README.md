@@ -1,4 +1,4 @@
-# PeanutHost's official website (public build)
+# PeanutHost's official website
 
 ## License
 
